@@ -14,17 +14,3 @@ E:\C#_net\project\HMS\HMS.Entity\bin\Debug\EntityFramework.SqlServer.xml
 E:\C#_net\project\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\C#_net\project\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\C#_net\project\HMS\HMS.Entity\obj\Debug\HMS.Entity.csproj.CopyComplete
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\HMS.Entity.dll.config
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\HMS.Entity.dll
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\HMS.Entity.pdb
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\EntityFramework.dll
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\EntityFramework.SqlServer.dll
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\EntityFramework.xml
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\EntityFramework.SqlServer.xml
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-E:\Desktop\HMS\HMS\HMS.Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-E:\Desktop\HMS\HMS\HMS.Entity\obj\Debug\HMS.Entity.csprojResolveAssemblyReference.cache
-E:\Desktop\HMS\HMS\HMS.Entity\obj\Debug\HMS.Entity.dll
-E:\Desktop\HMS\HMS\HMS.Entity\obj\Debug\HMS.Entity.pdb

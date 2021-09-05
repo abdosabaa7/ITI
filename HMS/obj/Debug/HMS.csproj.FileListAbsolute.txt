@@ -198,8 +198,11 @@ E:\Desktop\HMS\HMS\HMS\bin\System.Web.WebPages.dll
 E:\Desktop\HMS\HMS\HMS\bin\System.Web.WebPages.Razor.dll
 E:\Desktop\HMS\HMS\HMS\bin\WebGrease.dll
 E:\Desktop\HMS\HMS\HMS\bin\HMS.Data.pdb
+E:\Desktop\HMS\HMS\HMS\bin\HMS.Data.dll.config
 E:\Desktop\HMS\HMS\HMS\bin\HMS.Entity.pdb
+E:\Desktop\HMS\HMS\HMS\bin\HMS.Entity.dll.config
 E:\Desktop\HMS\HMS\HMS\bin\HMS.Service.pdb
+E:\Desktop\HMS\HMS\HMS\bin\HMS.Service.dll.config
 E:\Desktop\HMS\HMS\HMS\bin\System.Web.Helpers.xml
 E:\Desktop\HMS\HMS\HMS\bin\System.Web.Mvc.xml
 E:\Desktop\HMS\HMS\HMS\bin\System.Web.Optimization.xml
@@ -224,6 +227,8 @@ E:\Desktop\HMS\HMS\HMS\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Desktop\HMS\HMS\HMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\Desktop\HMS\HMS\HMS\bin\Microsoft.Owin.Security.OAuth.xml
 E:\Desktop\HMS\HMS\HMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csprojResolveAssemblyReference.cache
+E:\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csproj.AssemblyReference.cache
+E:\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+E:\Desktop\HMS\HMS\HMS\obj\Debug\HMS.csproj.CopyComplete
 E:\Desktop\HMS\HMS\HMS\obj\Debug\HMS.dll
 E:\Desktop\HMS\HMS\HMS\obj\Debug\HMS.pdb

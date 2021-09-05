@@ -1,17 +1,18 @@
-﻿using System;
+﻿
+using HMS.Entity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HMS.Entity;
-using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace HMS.Data
 {
-    public class HMSContext :IdentityDbContext<HMSUser>
+    public class HMSContext : IdentityDbContext<HMSUser>
     {
-        public HMSContext(): base("HMSConnectionString")
+        public HMSContext() : base("HMSConnectionString")
         {
         }
 
@@ -19,10 +20,13 @@ namespace HMS.Data
         {
             return new HMSContext();
         }
-        public DbSet <AccomodationType> AccomodationTypes { get; set; }
+
+        public DbSet<AccomodationType> AccomodationTypes { get; set; }
         public DbSet<AccomodationPackage> AccomodationPackages { get; set; }
+     
         public DbSet<Accomodation> Accomodations { get; set; }
-        public DbSet<Booking> Bookings { get; set; }
        
+        public DbSet<Booking> Bookings { get; set; }
+     
     }
 }
